@@ -370,6 +370,8 @@ height: 80px;
 width: 80px;
 
 border-radius: 20px;
+
+filter: drop-shadow(5px 3px 3px #0000004d);
 }
 .option i{
 
@@ -631,6 +633,8 @@ display: inline-flex;
 justify-content: center;
     
 align-items: center;
+    
+filter: drop-shadow(5px 3px 3px #0000004d);
 }
 .doc_i{
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a7a4ff+0,696ce1+100 */
@@ -740,4 +744,5 @@ align-items: center;
 footer a img{
     width: 25px;
     margin-top: 10px;
+    filter: drop-shadow(5px 3px 3px #0000004d);
 }
